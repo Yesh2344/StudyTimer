@@ -1,6 +1,6 @@
 # Modern Study Timer
 
-![Modern Study Timer]([https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.png](https://github.com/Yesh2344/StudyTimer/blob/main/Screenshot%20(140).png))
+![Modern Study Timer]((https://github.com/Yesh2344/StudyTimer/blob/main/Screenshot%20(140).png))
 
 A sleek and intuitive study timer application built with Python and customtkinter, designed to boost productivity and enhance focus during study sessions. This modern, clock-like interface helps students manage their study time effectively using the Pomodoro Technique or custom time intervals.
 
